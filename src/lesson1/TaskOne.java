@@ -1,7 +1,7 @@
 package lesson1;
 
 public class TaskOne {
-     public void merge(int[] nums1, int m, int[] nums2, int n) {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
         int c = m + n;
         --m;
         --n;
