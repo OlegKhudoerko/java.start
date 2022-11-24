@@ -20,7 +20,7 @@ public class TaskFour {
             }
             start = end + 1;
             if (start == 0) {
-                break;
+                return result;
             }
             result += " ";
             while (end >= 0 && s.charAt(end) != ' ') {
@@ -31,5 +31,6 @@ public class TaskFour {
         return result;
     }
 }
+
 
 
