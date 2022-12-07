@@ -1,8 +1,11 @@
 package lesson4;
+// https://leetcode.com/problems/implement-queue-using-stacks/ - перекидывать
+// в выходной стэк элементы из входного в операциях pop и peek только когда выходной пуст
+//232. Implement Queue using Stacks
 
 import java.util.Stack;
 
-//232. Implement Queue using Stacks
+
 public class TaskTwo {
 
 }

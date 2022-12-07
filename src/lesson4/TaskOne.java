@@ -1,5 +1,8 @@
 package lesson4;
-//542. 01 Matrix
+// https://leetcode.com/problems/01-matrix/ - ищем от нулей.
+// Нужно завести двумерный массив типа boolean, для отметки посещенных клеток.
+// Шаблон как в задаче с семинара
+// 542. 01 Matrix
 
 import java.util.Arrays;
 import java.util.LinkedList;
