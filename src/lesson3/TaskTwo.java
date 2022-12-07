@@ -1,4 +1,7 @@
 package lesson3;
+//2 - Дан массив целых чисел (List<Integer) удалить из него целые числа.
+// Посмотрите на метод removeAll (можно сохранить все четные значения в другой
+// список и передать его в removeAll или используйте итератор
 
 import java.util.ArrayList;
 import java.util.List;
